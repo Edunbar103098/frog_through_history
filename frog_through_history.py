@@ -2,7 +2,7 @@ import streamlit as st
 st.sidebar.header('Sad Frog Through History')
 st.sidebar.subheader("It all started when no one went to his birthday party...")
 st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
-frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art"]) 
+frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art"],["Sports"],["Home Life"]) 
 st.sidebar.subheader("By: Ed Dunbar")
 if frog == "World History":
   st.header("Julius Froggus being murdered")
@@ -23,7 +23,7 @@ if frog == "World History":
   st.header("Plague of Frogs")
   st.subheader("History Lied: The plague was just one fucking big frog")
   st.image("https://i.pinimg.com/564x/7d/b1/fd/7db1fd4102cc74d954b07ea1640ef769.jpg")
-if frog == "US History":
+elif frog == "US History":
   st.header("Washington crossing the Delaware")
   st.subheader("How'd he get on this boat?")
   st.image("https://i.pinimg.com/236x/54/e0/36/54e036d1a88249418337c9250081424d.jpg")
@@ -51,7 +51,7 @@ if frog == "US History":
   st.header("Mount Rushmore")
   st.subheader("You have a stone cold heart replacing Lincoln, Mr. Frog")
   st.image("https://i.pinimg.com/474x/f2/60/38/f26038442133da5528a287793703142d.jpg")          
-if frog == "Media & Art":
+elif frog == "Media & Art":
   st.header("The Wolf of Wall Street")
   st.subheader("Money Talks, bullfrog walks.")
   st.image("https://i.pinimg.com/564x/eb/af/61/ebaf6182caeb3ae629ae58d397313474.jpg")
@@ -82,3 +82,29 @@ if frog == "Media & Art":
   st.header("Project Runway")
   st.subheader("I'm sorry frogchesca, you just didn't make the cut.")
   st.image("https://i.pinimg.com/564x/cf/a5/cd/cfa5cd67739f7139f4f7819c800dea55.jpg")
+elif frog == "Sports":
+  st.header("Frogsled")
+  st.image("https://i.pinimg.com/originals/54/c5/21/54c521f8707e1cb36e9baec070fc1c2d.jpg")
+  st.header("Soccer Frog")
+  st.subheader("HE TOUCHED THE BUTT")
+  st.image("https://i.pinimg.com/564x/da/97/1a/da971a92e8d4865f96c710e4d5cff667.jpg")
+  st.header("Olympic Curling")
+  st.subheader("Due to the shortage of granite, the olympic committee had to improvise")
+  st.image("https://i.pinimg.com/564x/40/64/9c/40649c734030d498ef1f6044a52d20e2.jpg")
+  st.header("New Swimming style: the Frogstroke")
+  st.subheader("How is this fair for any competitor")
+  st.image("https://i.pinimg.com/originals/6c/06/ad/6c06ad6db292dc2293b6a5f40f5f8fed.jpg")
+elif frog == ("Home Life")
+  st.header("Thanksgiving")
+  st.subheader("Oh god, grandma's bringing up frog politics again....")
+  st.image("https://i.pinimg.com/564x/31/6d/50/316d501a6bba97265a562235c8bfc4e0.jpg")
+  st.header("Christmas")
+  st.subheader("Only Sad Frogs get Christmas Presents this year!)
+  st.image("https://i.pinimg.com/564x/e5/20/25/e520255d5c5120f6794870f164fda8c8.jpg")
+  st.header("His Birth")
+  st.subheader("Awww his first words were RIBBET")
+  st.image("https://i.pinimg.com/564x/09/17/03/091703d33b6a062478d283828938fd34.jpg")
+  st.header("First Party")
+  st.subheader("Is that frog 21? I'm gonna need to see some id.")
+  st.image("https://i.pinimg.com/564x/8c/95/25/8c9525b52bacd105bf0db00448cdbec0.jpg")
+  
