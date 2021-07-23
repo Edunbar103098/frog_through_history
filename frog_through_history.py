@@ -99,7 +99,7 @@ elif frog == "Home Life":
   st.subheader("Oh god, grandma's bringing up frog politics again....")
   st.image("https://i.pinimg.com/564x/31/6d/50/316d501a6bba97265a562235c8bfc4e0.jpg")
   st.header("Christmas")
-  st.subheader("Only Sad Frogs get Christmas Presents this year!)
+  st.subheader("Only Sad Frogs get Christmas Presents this year!")
   st.image("https://i.pinimg.com/564x/e5/20/25/e520255d5c5120f6794870f164fda8c8.jpg")
   st.header("His Birth")
   st.subheader("Awww his first words were RIBBET")
