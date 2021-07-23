@@ -2,7 +2,7 @@ import streamlit as st
 st.sidebar.header('Sad Frog Through History')
 st.sidebar.subheader("It all started when no one went to his birthday party...")
 st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
-frog = st.sidebar.selectbox("Pick a time period", ["World History", "US History", "Media & Art"]) 
+frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art"]) 
 st.sidebar.subheader("By: Ed Dunbar")
 if frog == "World History":
   st.header("Julius Froggus being murdered")
