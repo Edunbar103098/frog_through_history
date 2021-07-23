@@ -59,7 +59,7 @@ if frog == "Media & Art":
   st.header("Super Mario Galaxy")
   st.subheader("Mario, those toads seem really sketchy")
   st.image("https://i.pinimg.com/564x/bc/86/0a/bc860a9c69ce637d1945b431d34ab038.jpg")
-  st.header("Les Miserables"
+  st.header("Les Miserables")
   st.subheader("Do you hear the people sing, singing the songs of angry frogs...")
   st.image("https://i.pinimg.com/564x/06/45/e6/0645e6d35c3628747990db35f512fbe4.jpg")
   st.header("Muhammad Ali")
