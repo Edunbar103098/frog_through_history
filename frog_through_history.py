@@ -16,7 +16,7 @@ if frog == "US History":
   st.image("https://i.pinimg.com/474x/68/81/cc/6881cc18f0e1d89d786bf9159519c23e.jpg")
   st.header("Boston Tea Party")
   st.subheader("That's $20 worth of tea you're wasting, way to show the British")
-  st.image("https://i.pinimg.com/564x/66/68/b8/6668b8315716869795d975cc4e3db37a.jpg)
+  st.image("https://i.pinimg.com/564x/66/68/b8/6668b8315716869795d975cc4e3db37a.jpg")
   st.header("Lincoln Assasination")
   st.subheader("PRESIDENT FROGOLN, TURN AROUND!!!")
   st.image("https://i.pinimg.com/564x/22/4d/b3/224db37196dfea640f5608843de95f39.jpg")
