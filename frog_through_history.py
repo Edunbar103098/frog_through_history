@@ -23,7 +23,7 @@ if frog == "World History":
   st.header("Plague of Frogs")
   st.subheader("History Lied: The plague was just one fucking big frog")
   st.image("https://i.pinimg.com/564x/7d/b1/fd/7db1fd4102cc74d954b07ea1640ef769.jpg")
-elif frog == "US History":
+if frog == "US History":
   st.header("Washington crossing the Delaware")
   st.subheader("How'd he get on this boat?")
   st.image("https://i.pinimg.com/236x/54/e0/36/54e036d1a88249418337c9250081424d.jpg")
@@ -51,7 +51,7 @@ elif frog == "US History":
   st.header("Mount Rushmore")
   st.subheader("You have a stone cold heart replacing Lincoln, Mr. Frog")
   st.image("https://i.pinimg.com/474x/f2/60/38/f26038442133da5528a287793703142d.jpg")          
-elif frog == "Media & Art":
+if frog == "Media & Art":
   st.header("The Wolf of Wall Street")
   st.subheader("Money Talks, bullfrog walks.")
   st.image("https://i.pinimg.com/564x/eb/af/61/ebaf6182caeb3ae629ae58d397313474.jpg")
@@ -82,7 +82,7 @@ elif frog == "Media & Art":
   st.header("Project Runway")
   st.subheader("I'm sorry frogchesca, you just didn't make the cut.")
   st.image("https://i.pinimg.com/564x/cf/a5/cd/cfa5cd67739f7139f4f7819c800dea55.jpg")
-elif frog == "Sports":
+if frog == "Sports":
   st.header("Frogsled")
   st.image("https://i.pinimg.com/originals/54/c5/21/54c521f8707e1cb36e9baec070fc1c2d.jpg")
   st.header("Soccer Frog")
@@ -94,7 +94,7 @@ elif frog == "Sports":
   st.header("New Swimming style: the Frogstroke")
   st.subheader("How is this fair for any competitor")
   st.image("https://i.pinimg.com/originals/6c/06/ad/6c06ad6db292dc2293b6a5f40f5f8fed.jpg")
-elif frog == "Home Life":
+if frog == "Home Life":
   st.header("Thanksgiving")
   st.subheader("Oh god, grandma's bringing up frog politics again....")
   st.image("https://i.pinimg.com/564x/31/6d/50/316d501a6bba97265a562235c8bfc4e0.jpg")
