@@ -3,7 +3,6 @@ st.sidebar.header('Sad Frog Through History')
 st.sidebar.subheader("It all started when no one went to his birthday party...")
 st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
 frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art","Sports","Home Life"]) 
-st.sidebar.subheader("By: Ed Dunbar")
 st.sidebar.image("https://i.pinimg.com/564x/a3/f0/ef/a3f0efff9e87ccfaf62602b13068fea3.jpg")
 if st.sidebar.button('Collect your Froggy Dollars Now!'):
       link = '[Froggy Bucks](https://www.boston.gov/departments/police)'  
