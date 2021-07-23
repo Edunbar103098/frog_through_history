@@ -67,4 +67,7 @@ if frog == "Media & Art":
   st.header("Hell's Kitchen")
   st.subheader("Your fly flambe was RAW, RAW!!")
   st.image("https://i.pinimg.com/564x/8d/f2/49/8df249c5bfc9d52ec4c4855607e1f83e.jpg")
+  st.header("Frog's Playing Poker")
+  st.subheader("Frob's tounge is showing, he has a royal flush.")
+  st.image("https://i.pinimg.com/564x/11/f2/00/11f200f2ce6caf2528309023bc94e195.jpg")
   
