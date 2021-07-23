@@ -1,9 +1,7 @@
 import streamlit as st
 st.sidebar.header('Sad Frog Through History')
-st.sidebar.subheader("He's just trying to survive")
-st.sidebar.image('https://i.pinimg.com/474x/63/a6/af/63a6afe6a8591720d2bef2799681c721.jpg')
-st.header("It all started when no one went to his birthday party...")
-st.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
+st.sidebar.subheader("It all started when no one went to his birthday party...")
+st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
 frog = st.sidebar.selectbox("Pick a time period", ["World History", "US History", "Media & Art"]) 
 if frog == "World History":
   st.header("Julius Froggus being murdered")
