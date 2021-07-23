@@ -64,4 +64,7 @@ if frog == "Media & Art":
   st.header("Muhammad Ali")
   st.subheader("Get up Frogkey, you have more fight in you!")
   st.image("https://i.pinimg.com/564x/d4/20/b3/d420b312a73a0ebb5267f0ffc864fa4b.jpg")
+  st.header("Hell's Kitchen"
+  st.subheader("Your fly flambe was RAW, RAW!!")
+  st.image("https://i.pinimg.com/564x/8d/f2/49/8df249c5bfc9d52ec4c4855607e1f83e.jpg")
   
