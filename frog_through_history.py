@@ -23,9 +23,6 @@ if frog == "World History":
   st.header("Landing on the moon")
   st.subheader("Houston, we have a froglem....")
   st.image("https://i.pinimg.com/564x/1c/80/8a/1c808a54212145d7a2e7c505d899dbd9.jpg")
-  st.header("Plague of Frogs")
-  st.subheader("History Lied: The plague was just one fucking big frog")
-  st.image("https://i.pinimg.com/564x/7d/b1/fd/7db1fd4102cc74d954b07ea1640ef769.jpg")
 if frog == "US History":
   st.header("Washington crossing the Delaware")
   st.subheader("How'd he get on this boat?")
