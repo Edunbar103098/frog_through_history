@@ -70,4 +70,7 @@ if frog == "Media & Art":
   st.header("Frog's Playing Poker")
   st.subheader("Frob's tounge is showing, he has a royal flush.")
   st.image("https://i.pinimg.com/564x/11/f2/00/11f200f2ce6caf2528309023bc94e195.jpg")
+  st.header("How I met your Mother")
+  st.subheader("It's gonna be legend-wait for it- FROGGY.")
+  st.image("https://i.pinimg.com/564x/02/cb/dd/02cbdd8acb839d26c4dc06d3425488e1.jpg")
   
