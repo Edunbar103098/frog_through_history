@@ -4,6 +4,8 @@ st.sidebar.subheader("It all started when no one went to his birthday party...")
 st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac715970.jpg")
 frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art","Sports","Home Life"]) 
 st.sidebar.subheader("By: Ed Dunbar")
+st.image("https://i.pinimg.com/564x/a3/f0/ef/a3f0efff9e87ccfaf62602b13068fea3.jpg")
+
 if frog == "World History":
   st.header("Julius Froggus being murdered")
   st.subheader("Beware the Frogs of March")
@@ -107,4 +109,8 @@ if frog == "Home Life":
   st.header("First Party")
   st.subheader("Is that frog 21? I'm gonna need to see some id.")
   st.image("https://i.pinimg.com/564x/8c/95/25/8c9525b52bacd105bf0db00448cdbec0.jpg")
+  st.header("First Job")
+  st.subheader("He's gotta pay for college somehow")
+  st.image("https://i.pinimg.com/564x/49/56/f1/4956f18f7a5358605450e86b95ebcbc3.jpg")
+  
   
