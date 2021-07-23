@@ -5,7 +5,9 @@ st.sidebar.image("https://i.pinimg.com/564x/5d/c5/35/5dc5350cc82db7b0b9d48f75ac7
 frog = st.sidebar.selectbox("Topic:", ["World History", "US History", "Media & Art","Sports","Home Life"]) 
 st.sidebar.subheader("By: Ed Dunbar")
 st.sidebar.image("https://i.pinimg.com/564x/a3/f0/ef/a3f0efff9e87ccfaf62602b13068fea3.jpg")
-
+if st.sidebar.button('Collect your Froggy Dollars Now!'):
+      link = '[Froggy Bucks](https://www.boston.gov/departments/police)'  
+      st.markdown(link, unsafe_allow_html=True) 
 if frog == "World History":
   st.header("Julius Froggus being murdered")
   st.subheader("Beware the Frogs of March")
