@@ -94,7 +94,7 @@ elif frog == "Sports":
   st.header("New Swimming style: the Frogstroke")
   st.subheader("How is this fair for any competitor")
   st.image("https://i.pinimg.com/originals/6c/06/ad/6c06ad6db292dc2293b6a5f40f5f8fed.jpg")
-elif frog == ("Home Life")
+elif frog == "Home Life":
   st.header("Thanksgiving")
   st.subheader("Oh god, grandma's bringing up frog politics again....")
   st.image("https://i.pinimg.com/564x/31/6d/50/316d501a6bba97265a562235c8bfc4e0.jpg")
