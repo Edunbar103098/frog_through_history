@@ -79,4 +79,6 @@ if frog == "Media & Art":
   st.header("How I met your Mother")
   st.subheader("Tad(pole) Mosby secretly had a crush on lilypad")
   st.image("https://i.pinimg.com/564x/02/cb/dd/02cbdd8acb839d26c4dc06d3425488e1.jpg")
-  
+   st.header("Project Runway")
+  st.subheader("I'm sorry frogchesca, you just didn't make the cut.")
+  st.image("https://i.pinimg.com/564x/cf/a5/cd/cfa5cd67739f7139f4f7819c800dea55.jpg")
