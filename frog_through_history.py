@@ -47,7 +47,7 @@ if frog == "US History":
   st.image("https://i.pinimg.com/474x/f2/60/38/f26038442133da5528a287793703142d.jpg")          
 if frog == "Media & Art":
   st.header("The Wolf of Wall Street")
-  st.subheader("Money Talks, toadshit walks.")
+  st.subheader("Money Talks, bullfrog walks.")
   st.image("https://i.pinimg.com/564x/eb/af/61/ebaf6182caeb3ae629ae58d397313474.jpg")
   st.header("Frogger")
   st.subheader("C'mon, this was just too easy to skip")
